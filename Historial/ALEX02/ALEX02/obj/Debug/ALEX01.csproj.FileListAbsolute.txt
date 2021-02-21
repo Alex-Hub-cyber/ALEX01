@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ALEX01\ALEX01\bin\Debug\ALEX01.exe.config
+C:\Users\user\source\repos\ALEX01\ALEX01\bin\Debug\ALEX01.exe
+C:\Users\user\source\repos\ALEX01\ALEX01\bin\Debug\ALEX01.pdb
+C:\Users\user\source\repos\ALEX01\ALEX01\obj\Debug\ALEX01.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ALEX01\ALEX01\obj\Debug\ALEX01.Properties.Resources.resources
+C:\Users\user\source\repos\ALEX01\ALEX01\obj\Debug\ALEX01.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ALEX01\ALEX01\obj\Debug\ALEX01.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ALEX01\ALEX01\obj\Debug\ALEX01.exe
+C:\Users\user\source\repos\ALEX01\ALEX01\obj\Debug\ALEX01.pdb
+C:\Users\user\source\repos\ALEX01\ALEX01\obj\Debug\ALEX01.Frm.resources
